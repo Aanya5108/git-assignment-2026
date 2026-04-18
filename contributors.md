@@ -1,5 +1,4 @@
 - Harsh Sharma
-<<<<<<< HEAD
 VedanshuMeharia
 Aanya Bansal
 - Prayag Bhalodia
@@ -13,3 +12,10 @@ Aanya Bansal
 - Ashish Pandey
 - Aanya Bansal
 
+- Chakshu
+- Harsh Sharma
+- Prayag Bhalodia
+- VedanshuMeharia
+- Chaitanya Garg
+- Ashish Pandey
+- Aanya Bansal
